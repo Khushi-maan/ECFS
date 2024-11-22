@@ -13,7 +13,7 @@ const geistMono = localFont({
   weight: "100 900",
 });
 export const metadata = {
-  metadataBase: "https://rizz-gpt-next.vercel.app/",
+  metadataBase: "https://ecfs.vercel.app/",
   title: "Ecfs",
   description: "BEYOND ENTERTAINMENT",
   openGraph: {
